@@ -17,4 +17,5 @@ To ensure optimal response quality, and given that latency requirements are not 
 
 | Model ID | License |
 | -------- | ------- |
-| [TabbyML/Yi-34B](https://huggingface.co/01-ai/Yi-34B) | [Yi License](https://huggingface.co/01-ai/Yi-34B/blob/main/LICENSE) |
+| [wsxiaoys/Yi-34B](https://huggingface.co/01-ai/Yi-34B) | [Yi License](https://huggingface.co/01-ai/Yi-34B/blob/main/LICENSE) |
+| [wsxiaoys/OpenHermes-2.5-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
