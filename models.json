@@ -22,7 +22,7 @@
     "sha256": "1edb516ae5274cf70183d15a6c108e4181fcc318303802a419fd111629b5ca3a"
   },
   {
-    "name": "Deepseek-Coder-1.3B",
+    "name": "DeepseekCoder-1.3B",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",

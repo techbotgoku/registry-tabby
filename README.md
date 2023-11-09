@@ -9,7 +9,7 @@ We recommend using
 
 | Model ID | License |
 | -------- | ------- |
-| [wsxiaoys/Deepseek-Coder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [wsxiaoys/DeepseekCoder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 
 
 ## Chat models (`--chat-model`)
