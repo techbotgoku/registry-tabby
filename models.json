@@ -6,7 +6,7 @@
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "",
     "urls": [
-      "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF/blob/main/tinyllama-1.1b-intermediate-step-715k-1.5t.Q8_0.gguf",
+      "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF/blob/main/tinyllama-1.1b-intermediate-step-715k-1.5t.Q8_0.gguf"
     ],
     "sha256":"4d2c5281c4efa28628936277ff6cd1a6211bd0c0a5c27a3a75efe524857179a5"
   }
