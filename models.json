@@ -4,7 +4,7 @@
     "provider_url": "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF",
     "license_name": "apache-2.0",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
-    "prompt_template": "",
+    "prompt_template": "{prompt}",
     "urls": [
       "https://huggingface.co/TheBloke/TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF/blob/main/tinyllama-1.1b-intermediate-step-715k-1.5t.Q8_0.gguf"
     ],
